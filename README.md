@@ -5,9 +5,8 @@
 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphisit-ths)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphisit-ths)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aphisit-ths&show_icons=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aphisit-ths&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aphisit-ths)  
 
