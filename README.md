@@ -5,9 +5,9 @@
 >  I'm currently learning Web , Mobile Application Development . I also interested in UX / UI Design 
 
 
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphisit-ths&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphisit-ths&layout=compact)]
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aphisit-ths&show_icons=true%&layout=compact)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aphisit-ths&show_icons=true)  
+
 
 
