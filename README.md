@@ -2,15 +2,15 @@
 ## A sophomore computer engineering student @KMITL | Ladkrabang,Thailand
 
 
-I'm currently learning Web , Mobile Application Development . I also interested in UX / UI Design 
+Nice to meet ya :)
 
-## My interested courses📚
+## this is my interested courses📚
 ### - Web & Mobile Development 
 ### - UX/UI Design 
 ### - Machine Learning 
 ### - Data Analytic 
 
-
+> ### empathy is the medicine the world needs . :D
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphisit-ths&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
