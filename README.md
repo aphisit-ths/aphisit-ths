@@ -2,7 +2,7 @@
 > ### I'm a 2nd-year computer engineering student @KMITL | Bangkok,Thailand
 <br />
 
-### *currently , I interested about how to be good software engineer .🤣 I also try to learning everything about technology things for my future carreer path. Go for it! 🤣*
+### *currently , I interested about how to be good software engineer .🤣 I try to learning everything about technology that for my future carreer path. Go for it! 🤣*
 
 <br />
 
