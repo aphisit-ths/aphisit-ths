@@ -6,7 +6,7 @@
 
 
 
-### this is my interested courses📚
+### interesting courses📚
 > ####  web & mobile development 
 > ####  UX/UI design 
 > ####  machine learning 
