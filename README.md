@@ -14,12 +14,8 @@
 
 <br />
 
-![](./profile-3d-contrib/profile-night-view.svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphisit-ths&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aphisit-ths&show_icons=true)  
-
-
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphisit-ths&layout=compact&hide_border=true"  /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=aphisit-ths&show_icons=true&hide_border=true" /> |
+| ------------- | ------------- |
