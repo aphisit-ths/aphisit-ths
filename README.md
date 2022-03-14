@@ -2,9 +2,9 @@
 > ### I'm a 2nd-year computer engineering student @KMITL | Bangkok,Thailand
 
 
-### *currently , I interesting about how to be good software engineer . I try to learning everything about technology to improve my skill & future career path. And I looking for sumer internship*
-
-## Portfolio https://aphisit-ths.github.io/my-personal-portfolio
+#### *currently , I interesting about how to be good software engineer . I try to learning everything about technology to improve my skill & future career path.* 
+> #### I'm looking for software engineer(front-end) ,UX/UI design ,Data analytic internship.
+### Portfolio https://aphisit-ths.github.io/my-personal-portfolio
 
 ### interesting courses📚
 > ####  web & mobile development 
